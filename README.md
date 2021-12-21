@@ -1,2 +1,2 @@
 # NaturalLanguageProcessing-NLP-
-This repository documents my learning process of NLP from the very basics
+This repository documents all of my Applied NLP projects
