@@ -1,4 +1,4 @@
-# Natural Language Processing NLP
+# Natural Language Processing (NLP)
 ## This repository documents all of my Applied NLP projects
 
 ### 1. Contains the different predefined models for sentiment analysis
